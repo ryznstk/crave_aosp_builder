@@ -200,7 +200,7 @@ jobs:
         "AOSP")
           export PROJECTFOLDER="/crave-devspaces/AOSP"
           export PROJECTID="35"
-          export REPO_INIT="repo init -u https://github.com/Lunaris-AOSP/android.git -b 16 --git-lfs --depth=1"
+          export REPO_INIT="repo init -u https://github.com/Evolution-X/manifest -b bka --git-lfs --depth=1"
         ;;
         esac
 
